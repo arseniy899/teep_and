@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TEEP</string>
+    <string name="hint_input_login">Логин или e-mail</string>
+    <string name="hint_input_password">Пароль</string>
+    <string name="act_login">Войти</string>
+    <string name="act_register">Зарегистрироваться</string>
+    <string name="hint_input_reg_login">Логин</string>
+    <string name="hint_input_name">Имя</string>
+    <string name="hint_input_mail">E-mail</string>
+    <string name="err_input_empty">Поле не может быть пустым</string>
+    <string name="err_input_pwd_mismatch">Пароли должны совпадать</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="app_needs_your_camera_permission_in_order_to_scan_qr_code">Необходимо разрешение на использование камеры</string>
+    <string name="save">Сохранить</string>
+    <string name="hint_input_name1">Фамилия</string>
+    <string name="hint_input_name2">Имя</string>
+    <string name="hint_input_name3">Отчество</string>
+    <string name="saved">Сохранено</string>
+    <string name="hint_input_new_pwd">Новый пароль</string>
+    <string name="hint_input_pwd_repeat">Повторите пароль</string>
+</resources>
